@@ -1,0 +1,173 @@
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    width: 100%;
+
+  }
+
+
+  .glyphicon-chevron-left {
+    color:hwb(61 4% 5%);
+    opacity: false;
+  }
+
+  .glyphicon-chevron-right {
+    color:hwb(61 4% 5%);
+    opacity: false;
+  }
+
+  
+
+  body {
+    background-color: rgb(122, 230, 179);
+  }
+  
+  .container {
+    margin-top: 7px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+ 
+  }
+
+
+h1 {
+  position: relative;
+  margin-left: 190px;
+  color: rgb(240, 95, 12);
+}
+
+  .left.carousel-control {
+    width: 0px;
+    height: 0px;
+    margin-left: 115px;
+    margin-top: 175px; 
+    
+  }
+
+  .right.carousel-control {
+    width: 0px;
+    height: 0px;
+    margin-right: 115px;
+    margin-top: 175px;
+    
+  }
+
+
+  #myCarousel {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-top: 10px;
+    padding-left: 10px;
+    margin-left: 220px;
+    width: 621px;
+    background: #859ef1;
+    border-radius: 6%;
+  }
+ 
+  .cards .card {
+    border-radius: 50%;
+    background: #f7fa69;
+  }
+ 
+p {
+  font-size: 17px;
+}
+ /* 
+ul.li {
+  position: relative;
+  padding-top: 8px;
+  padding-bottom: 15px;
+   color: rgb(250, 56, 169);
+    font-size: 45px;
+  }
+ 
+
+ .carousel-inner {
+   background-color: rgb(250, 56, 169);
+   border-radius: 21%;
+}
+ 
+
+.logo_1 {
+  color:#dd8c30;
+  font-size: 22px;
+}
+
+.logo_2 {
+  color:#eb4dae;
+  font-size: 22px;
+}
+ 
+a.title {
+  font-size: medium;
+}
+ 
+
+ 
+ 
+*/
+/*
+.img_1 {
+  position: relative;
+ color: #FFFF00;
+ font-size: 48px;
+  margin-left: 355px;
+  margin-top: -95px;
+  padding-bottom: 30px;
+}
+ 
+.img_2 {
+  position: relative;
+ color:   #FFFF00;
+ font-size: 48px;
+  margin-left: 325px;
+  margin-top: -95px;
+  padding-bottom: 30px;
+}
+ 
+.img_3 {
+  position: relative;
+ color:  #FFFF00;
+ font-size: 35px;
+  margin-left: 417px;
+  margin-top: -95px;
+  padding-bottom: 40px;
+}
+ 
+.img_4 {
+  position: relative;
+ color:  #FFFF00;
+ font-size: 35px;
+  margin-left: 350px;
+  margin-top: -95px;
+  padding-bottom: 40px;
+}
+ 
+.img_5 {
+  position: relative;
+ color:  #FFFF00;
+ font-size: 37px;
+  margin-left: 390px;
+  margin-top: -95px;
+  padding-bottom: 40px;
+}
+ 
+.img_6 {
+  position: relative;
+ color:   #FFFF00;
+ font-size: 48px;
+  margin-left: 375px;
+  margin-top: -95px;
+  padding-bottom: 40px;
+}
+ 
+ */
+ img {
+  border-radius: 21%;
+ }
+ 
+ 
+ 
+ .menu.grid {
+    font-size: 25px;
+    padding-top: 15px;
+ }
